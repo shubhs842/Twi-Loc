@@ -1,4 +1,3 @@
-
 ## Twi-Loc: Location Based Analysis Using Machine Learning
 
 Twi-Loc is a machine learning project aimed at predicting the geographical location of Twitter users based on their tweets. By leveraging advanced Natural Language Processing (NLP) and deep learning techniques, Twi-Loc provides insights into user behaviour and trends, offering applications ranging from targeted advertising to emergency response.
@@ -75,16 +74,3 @@ The model achieved the following metrics:
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-
-
-![image](https://github.com/user-attachments/assets/90c74edd-0f6b-471e-991f-8db3f30a5c11)
-
-![image](https://github.com/user-attachments/assets/11908f79-a57e-4816-819a-bcafadb2ff39)
-
-![image](https://github.com/user-attachments/assets/966b817a-9e8a-4439-816b-bc6c1901e34d)
-
-![image](https://github.com/user-attachments/assets/e9c3141d-2dc1-4ba0-9b62-41467cbad452)
-
-![image](https://github.com/user-attachments/assets/fda0d042-361b-45ae-a9a6-e895fe9e7266)
-
-![image](https://github.com/user-attachments/assets/bebb10d6-376c-43b0-a035-9f87514a3d49)
