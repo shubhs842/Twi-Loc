@@ -74,3 +74,23 @@ The model achieved the following metrics:
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+## Images 
+
+![image](https://github.com/user-attachments/assets/214440bd-d619-420d-a69f-f9ad6830707c)
+
+![image](https://github.com/user-attachments/assets/51b52971-a4e4-4fd7-a81c-fbbfe656d763)
+
+![image](https://github.com/user-attachments/assets/709a745c-6051-4b73-8f83-fa5572813894)
+
+![image](https://github.com/user-attachments/assets/a403e741-7b93-40a0-90e7-f6c41f8fc90b)
+
+![image](https://github.com/user-attachments/assets/6a0a1d74-8e75-43cc-b69d-e5cd006bb9a5)
+
+![image](https://github.com/user-attachments/assets/e66aacee-4397-42fb-b976-ee5e04381e88)
+
+
+
+
+
+
+
